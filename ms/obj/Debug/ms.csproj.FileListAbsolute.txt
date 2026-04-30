@@ -1,0 +1,86 @@
+C:\Users\Student.POLCOL\Desktop\ИСП 224 1\ms\ms\obj\Debug\ms.csproj.AssemblyReference.cache
+C:\Users\Student.POLCOL\Desktop\ИСП 224 1\ms\ms\obj\Debug\SubscriptionManager.Form1.resources
+C:\Users\Student.POLCOL\Desktop\ИСП 224 1\ms\ms\obj\Debug\ms.Properties.Resources.resources
+C:\Users\Student.POLCOL\Desktop\ИСП 224 1\ms\ms\obj\Debug\ms.csproj.GenerateResource.cache
+C:\Users\Student.POLCOL\Desktop\ИСП 224 1\ms\ms\obj\Debug\ms.csproj.CoreCompileInputs.cache
+C:\Users\Student.POLCOL\Desktop\ИСП 224 1\ms\ms\bin\Debug\ms.exe.config
+C:\Users\Student.POLCOL\Desktop\ИСП 224 1\ms\ms\bin\Debug\ms.exe
+C:\Users\Student.POLCOL\Desktop\ИСП 224 1\ms\ms\bin\Debug\ms.pdb
+C:\Users\Student.POLCOL\Desktop\ИСП 224 1\ms\ms\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Student.POLCOL\Desktop\ИСП 224 1\ms\ms\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Student.POLCOL\Desktop\ИСП 224 1\ms\ms\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Student.POLCOL\Desktop\ИСП 224 1\ms\ms\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Student.POLCOL\Desktop\ИСП 224 1\ms\ms\bin\Debug\Npgsql.dll
+C:\Users\Student.POLCOL\Desktop\ИСП 224 1\ms\ms\bin\Debug\System.Buffers.dll
+C:\Users\Student.POLCOL\Desktop\ИСП 224 1\ms\ms\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Student.POLCOL\Desktop\ИСП 224 1\ms\ms\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Student.POLCOL\Desktop\ИСП 224 1\ms\ms\bin\Debug\System.Memory.dll
+C:\Users\Student.POLCOL\Desktop\ИСП 224 1\ms\ms\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Student.POLCOL\Desktop\ИСП 224 1\ms\ms\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Student.POLCOL\Desktop\ИСП 224 1\ms\ms\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Student.POLCOL\Desktop\ИСП 224 1\ms\ms\bin\Debug\System.Text.Json.dll
+C:\Users\Student.POLCOL\Desktop\ИСП 224 1\ms\ms\bin\Debug\System.Threading.Channels.dll
+C:\Users\Student.POLCOL\Desktop\ИСП 224 1\ms\ms\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Student.POLCOL\Desktop\ИСП 224 1\ms\ms\bin\Debug\System.ValueTuple.dll
+C:\Users\Student.POLCOL\Desktop\ИСП 224 1\ms\ms\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Student.POLCOL\Desktop\ИСП 224 1\ms\ms\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Student.POLCOL\Desktop\ИСП 224 1\ms\ms\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Student.POLCOL\Desktop\ИСП 224 1\ms\ms\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Student.POLCOL\Desktop\ИСП 224 1\ms\ms\bin\Debug\Npgsql.xml
+C:\Users\Student.POLCOL\Desktop\ИСП 224 1\ms\ms\bin\Debug\System.Buffers.xml
+C:\Users\Student.POLCOL\Desktop\ИСП 224 1\ms\ms\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Student.POLCOL\Desktop\ИСП 224 1\ms\ms\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Student.POLCOL\Desktop\ИСП 224 1\ms\ms\bin\Debug\System.Memory.xml
+C:\Users\Student.POLCOL\Desktop\ИСП 224 1\ms\ms\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Student.POLCOL\Desktop\ИСП 224 1\ms\ms\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Student.POLCOL\Desktop\ИСП 224 1\ms\ms\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Student.POLCOL\Desktop\ИСП 224 1\ms\ms\bin\Debug\System.Text.Json.xml
+C:\Users\Student.POLCOL\Desktop\ИСП 224 1\ms\ms\bin\Debug\System.Threading.Channels.xml
+C:\Users\Student.POLCOL\Desktop\ИСП 224 1\ms\ms\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Student.POLCOL\Desktop\ИСП 224 1\ms\ms\bin\Debug\System.ValueTuple.xml
+C:\Users\Student.POLCOL\Desktop\ИСП 224 1\ms\ms\obj\Debug\ms.csproj.Up2Date
+C:\Users\Student.POLCOL\Desktop\ИСП 224 1\ms\ms\obj\Debug\ms.exe
+C:\Users\Student.POLCOL\Desktop\ИСП 224 1\ms\ms\obj\Debug\ms.pdb
+E:\ms\ms\bin\Debug\ms.exe.config
+E:\ms\ms\bin\Debug\ms.exe
+E:\ms\ms\bin\Debug\ms.pdb
+E:\ms\ms\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ms\ms\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\ms\ms\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ms\ms\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ms\ms\bin\Debug\Npgsql.dll
+E:\ms\ms\bin\Debug\System.Buffers.dll
+E:\ms\ms\bin\Debug\System.Collections.Immutable.dll
+E:\ms\ms\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\ms\ms\bin\Debug\System.Memory.dll
+E:\ms\ms\bin\Debug\System.Numerics.Vectors.dll
+E:\ms\ms\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\ms\ms\bin\Debug\System.Text.Encodings.Web.dll
+E:\ms\ms\bin\Debug\System.Text.Json.dll
+E:\ms\ms\bin\Debug\System.Threading.Channels.dll
+E:\ms\ms\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\ms\ms\bin\Debug\System.ValueTuple.dll
+E:\ms\ms\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\ms\ms\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\ms\ms\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\ms\ms\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\ms\ms\bin\Debug\Npgsql.xml
+E:\ms\ms\bin\Debug\System.Buffers.xml
+E:\ms\ms\bin\Debug\System.Collections.Immutable.xml
+E:\ms\ms\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\ms\ms\bin\Debug\System.Memory.xml
+E:\ms\ms\bin\Debug\System.Numerics.Vectors.xml
+E:\ms\ms\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\ms\ms\bin\Debug\System.Text.Encodings.Web.xml
+E:\ms\ms\bin\Debug\System.Text.Json.xml
+E:\ms\ms\bin\Debug\System.Threading.Channels.xml
+E:\ms\ms\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\ms\ms\bin\Debug\System.ValueTuple.xml
+E:\ms\ms\obj\Debug\ms.csproj.AssemblyReference.cache
+E:\ms\ms\obj\Debug\SubscriptionManager.Form1.resources
+E:\ms\ms\obj\Debug\ms.Properties.Resources.resources
+E:\ms\ms\obj\Debug\ms.csproj.GenerateResource.cache
+E:\ms\ms\obj\Debug\ms.csproj.CoreCompileInputs.cache
+E:\ms\ms\obj\Debug\ms.csproj.Up2Date
+E:\ms\ms\obj\Debug\ms.exe
+E:\ms\ms\obj\Debug\ms.pdb
